@@ -7,7 +7,7 @@ Zapoznaj się z planem kursu:
 
 Twoim zadaniem jest przygotowanie treści rozdziału o numerze
 <numer_rozdziału>
-M01L02C03
+M01L03C01
 </numer_rozdziału>
 
 dla lekcji w kursie online, bazując na podanym planie kursu.
